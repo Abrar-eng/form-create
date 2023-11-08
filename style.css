@@ -1,0 +1,23 @@
+.container {
+    border-radius: 5px;
+    background-color: rgb(144, 188, 194);
+    padding: 50px;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center;
+  }
+
+.btn {
+    text-align: center;
+    
+}
+
+.formlebel{
+    padding: 5px;
+    margin: 2px;
+}
+
+.result{
+    text-align: center;
+    padding: 5px;
+}
